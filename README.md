@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌐A passionate self taught Front-End developer<br>🎓 3rd Year B E CSE Student <br>👨‍💻 Coding and Development Enthusiast<br>🏆 Consistency and Learning<br>🔍 Currently Learning JavaScript 
+ 🌐A passionate self taught Front-End developer<br>🎓 4th Year B E CSE Student <br>👨‍💻 Coding and Development Enthusiast<br>🏆 Consistency and Learning<br>🔍 Currently Learning JavaScript 
 
 
 ## 🌐 Socials:
